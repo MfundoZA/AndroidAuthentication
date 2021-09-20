@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427154742869",
+    "project_id": "login-3b838",
+    "storage_bucket": "login-3b838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427154742869:android:27f2e9b7d0c78304f3fedc",
+        "android_client_info": {
+          "package_name": "com.mfundoza.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427154742869-5bmruhc4pitto69uv8uultbjb6kcm1g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo6Lvkcoiwu6vSUVQxVWrlHn7kpESl6og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427154742869-5bmruhc4pitto69uv8uultbjb6kcm1g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
